@@ -1,6 +1,6 @@
 version: "1"
 project:
-  name: insecure-bank
+  name: juice-shop-lab
   branch: ${scm.git.branch}
   revision:
     name: ${scm.git.commit}
